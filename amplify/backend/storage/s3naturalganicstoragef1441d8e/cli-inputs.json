@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3naturalganicstoragef1441d8e",
+  "bucketName": "naturalganic-storage-f1441d8e",
+  "policyUUID": "d6c1c9f8",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
