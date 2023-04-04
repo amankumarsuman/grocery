@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-naturalganic-staging-104752-authRole",
+      "UnauthRoleArn": "arn:aws:iam::556573642036:role/amplify-naturalganic-staging-104752-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::556573642036:role/amplify-naturalganic-staging-104752-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-naturalganic-staging-104752-deployment",
+      "UnauthRoleName": "amplify-naturalganic-staging-104752-unauthRole",
+      "StackName": "amplify-naturalganic-staging-104752",
+      "StackId": "arn:aws:cloudformation:us-east-1:556573642036:stack/amplify-naturalganic-staging-104752/26af7260-d2d6-11ed-b9bc-123c6b26e27f",
+      "AmplifyAppId": "d340dek32qe99l"
+    }
+  }
+}
